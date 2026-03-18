@@ -83,7 +83,10 @@ The goal is to build a model with high accuracy (target: **95%**) to assist in e
 
 ```
 Heart-Disease-Analyzer/
-│── Heart-desiease-analyser.ipynb
+├── notebook/
+│   └── Heart-disease-analyser.ipynb
+├── dataset/
+│   └── heart.csv
 │── README.md
 ```
 
