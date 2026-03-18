@@ -94,7 +94,7 @@ Heart-Disease-Analyzer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/heart-disease-analyzer.git
+git clone https://github.com/Zenitsu1Codes/heart-disease-analyzer.git
 cd heart-disease-analyzer
 ```
 
@@ -164,7 +164,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Harsh Asarsa**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Zenitsu1Codes
 
 ---
 
